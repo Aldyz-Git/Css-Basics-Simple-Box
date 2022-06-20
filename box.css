@@ -1,0 +1,11 @@
+.box {
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px, 2px 2px 0px rgba(206,89,55,0);
+    color: #FFFFFF;
+    background: #333333;
+    height: 100px; 
+    width: 100px;
+    padding: 50px;
+    border: 10px solid #050000;
+    margin: 25px;
+    background-color: #c22f2f;
+}
